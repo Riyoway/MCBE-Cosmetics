@@ -8,6 +8,10 @@ dist/
 *.mcpack
 *.mcaddon
 
+# Local agent tooling
+.agents/
+AGENTS.md
+
 # Local tooling
 .DS_Store
 Thumbs.db
