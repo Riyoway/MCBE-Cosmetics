@@ -1,0 +1,538 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "100 capes. Original pack by Xatalyst; cape assets provided by Badlion. Updated by Riyoway.",
+    "name": "Cape Cosmetics 1",
+    "uuid": "efcfd07e-7ce3-47ec-8cfd-a1b96d3382ad",
+    "version": [
+      2,
+      1,
+      2
+    ],
+    "min_engine_version": [
+      1,
+      26,
+      40
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "d53442c5-1656-4560-8f7f-4d0d4b4b9c57",
+      "version": [
+        2,
+        1,
+        2
+      ]
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "zachplaysan",
+      "name": "§cZachPlaysAN §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "xqii",
+      "name": "§7XQII §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "vanitymc",
+      "name": "§dVanityMC §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "usa",
+      "name": "§cU§fS§9A §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "uk",
+      "name": "§cU§9K §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "uhconair2",
+      "name": "§eUHC §fon §cAir §8Black §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "uhconair1",
+      "name": "§eUHC §fon §cAir §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "uhc",
+      "name": "§5UHC §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "travel",
+      "name": "§bTravel §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "test",
+      "name": "§eTest §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "tenebrous2",
+      "name": "§2Tenebrous §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "tenebrous1",
+      "name": "§1Tenebrous §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "sword",
+      "name": "§bSword §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "switzerland",
+      "name": "§cSwi§ftzerl§cand §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "swissnational",
+      "name": "§cSwiss §bNational §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "suchspeed2",
+      "name": "§cSuch§8speed §7V2 §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "suchspeed1",
+      "name": "§cSuch§8speed §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "springtulip",
+      "name": "§eSpring §cTulip §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "springbicycle",
+      "name": "§eSpring §9Bicycle §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "southkorea",
+      "name": "§cSouth §9Korea §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "snowman",
+      "name": "§fSnowman §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "seltix",
+      "name": "§6Seltix §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "schwitzer",
+      "name": "§9Schwitzer §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "sayanz",
+      "name": "§fSayanz §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "sasukey",
+      "name": "§5Sasukey §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "russia",
+      "name": "§fRu§1ss§4ia §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "rky",
+      "name": "§aRKY §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "rilly",
+      "name": "§eRilly §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "reindeer",
+      "name": "§9Reindeer §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "rainbow",
+      "name": "§9Rainbow §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "puppy",
+      "name": "§cPuppy §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "pumpkin",
+      "name": "§6Pumpkin §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "pride",
+      "name": "§cP§6r§ei§ad§9e §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "potofgold",
+      "name": "§2Pot §fof §6Gold §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "potion",
+      "name": "§dPotion §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "pig",
+      "name": "§dPig §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "panda",
+      "name": "§fP§8a§fn§8d§fa §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "pancake",
+      "name": "§9Pancake §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "oktoberfestwoman2",
+      "name": "§6Oktoberfest §cWoman §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "oktoberfestman2",
+      "name": "§6Oktoberfest §cMan §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "oktoberfestwoman1",
+      "name": "§6Oktoberfest §9Woman §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "oktoberfestman1",
+      "name": "§6Oktoberfest §9Man §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "oktoberfestprost",
+      "name": "§6Oktoberfest §eProst §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "oktoberfestfrau",
+      "name": "§6Oktoberfest §eFrau §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "oktoberfestmann",
+      "name": "§6Oktoberfest §eMann §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "netherlands",
+      "name": "§cNeth§ferl§cands §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "neruxvace",
+      "name": "§1Neruxvace §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "msrdigras",
+      "name": "§dMsr§adig§eras §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "minimichecker",
+      "name": "§8Minimichecker §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "miner",
+      "name": "§bMiner §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "markeybuilder",
+      "name": "§fMarkey§8builder §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "lvckyluke",
+      "name": "§8lvckyluker §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "lightning",
+      "name": "§5Lightning §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "lesgyt",
+      "name": "§bLeSG §4YT §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "legue",
+      "name": "§6Legue §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "lava",
+      "name": "§6L§8a§6v§8a §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "krapfen",
+      "name": "§fKrapfen §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "kitty",
+      "name": "§3Kitty §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "kayzee",
+      "name": "§bKayzee §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "japan",
+      "name": "§fJa§cp§fan §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "italy",
+      "name": "§aIt§fa§cly §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "island",
+      "name": "§2Island §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "hearts",
+      "name": "§4Hearts §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "gommehd",
+      "name": "§4GommeHD §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "ghost",
+      "name": "§fGhost §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "germany",
+      "name": "§8Ge§crm§eany §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "france",
+      "name": "§9Fr§fan§cce §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "foreveralone",
+      "name": "§8Forever §4Alone §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "fireworks2019",
+      "name": "§6Fireworks §a20§919 §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "fireworks",
+      "name": "§6Fireworks §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "fazon3",
+      "name": "§8Fazon §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "fazon2",
+      "name": "§fFazon §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "fazon1",
+      "name": "§6Fazon §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "fabo",
+      "name": "§7Fabo §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "extremexy",
+      "name": "§4Extremexy §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "eastereggs",
+      "name": "§aEaster §6Eggs §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "dragon",
+      "name": "§6Dragon §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "dol",
+      "name": "§6Dol §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "daannyy",
+      "name": "§8Daannyy §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "christmastree",
+      "name": "§aC§hc§ar§ci§as§ct§am§ca§as §2Tree §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "childish2",
+      "name": "§cC§6h§ei§al§bd§9i§9s§dh §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "childish1",
+      "name": "§8Childish §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "champagne",
+      "name": "§6Champagne §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "candy",
+      "name": "§cCandy §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "candles",
+      "name": "§dCandles §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "canada",
+      "name": "§cCa§fna§cda §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "calvin",
+      "name": "§fCalv§8ina §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "brian",
+      "name": "§8Brian §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "bl8",
+      "name": "§6BL§f-§88 §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "beta",
+      "name": "§7Beta §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "beach",
+      "name": "§eBeach §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "bastighg",
+      "name": "§7BastiGHG §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "badlionsticks",
+      "name": "§eBad§blion §bSti§ecks §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "badlion",
+      "name": "§eBad§blion §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "austria",
+      "name": "§cAustria §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "australia",
+      "name": "§9Australia §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "atox",
+      "name": "§3Atox §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "angelicat",
+      "name": "§dAngeli§5cat §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "americanflag",
+      "name": "§cAme§fri§9can §6Flag §fCloak§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "alpha",
+      "name": "§7Alpha §fCloak§r",
+      "memory_tier": 1
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Xatalyst",
+      "Riyoway"
+    ]
+  }
+}

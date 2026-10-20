@@ -1,0 +1,56 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.custom",
+				"texture_width": 704,
+				"texture_height": 736,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "root",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "waist",
+					"parent": "root",
+					"pivot": [0, 12, 0]
+				},
+				{
+					"name": "body",
+					"parent": "waist",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "cape",
+					"parent": "body",
+					"pivot": [0, 24, 2],
+					"rotation": [0, 180, 0]
+				},
+				{
+					"name": "part1",
+					"parent": "cape",
+					"pivot": [0, 24, 2],
+					"cubes": [
+						{
+							"origin": [-5, 8, 1],
+							"size": [10, 16, 1],
+							"uv": {
+								"north": {"uv": [32, 32], "uv_size": [320, 512]},
+								"east": {"uv": [0, 32], "uv_size": [32, 512]},
+								"south": {"uv": [384, 32], "uv_size": [320, 512]},
+								"west": {"uv": [352, 32], "uv_size": [32, 512]},
+								"up": {"uv": [32, 0], "uv_size": [320, 32]},
+								"down": {"uv": [704, 96], "uv_size": [-320, -32]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

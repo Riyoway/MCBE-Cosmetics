@@ -1,0 +1,188 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "30 capes. Original pack by Xatalyst; cape assets provided by Badlion. Updated by Riyoway.",
+    "name": "Cape Cosmetics 5",
+    "uuid": "92d70742-8488-484b-ab44-5110f8147bf7",
+    "version": [
+      2,
+      1,
+      2
+    ],
+    "min_engine_version": [
+      1,
+      26,
+      40
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "5a2b982c-8234-46c7-904e-6519a3938644",
+      "version": [
+        2,
+        1,
+        2
+      ]
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "zprah",
+      "name": "§fzprath§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "zcarmen",
+      "name": "§fzcarmen§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "xhemax",
+      "name": "§fxhemax§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "telly2",
+      "name": "§ftelly2§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "telly1",
+      "name": "§ftelly1§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "soypandih",
+      "name": "§fsoypandih§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "snipper",
+      "name": "§fsnipper§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "sasukeydemon",
+      "name": "§fsasukeydemon§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "retrorivalss1",
+      "name": "§fretrorivalss1§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "retrorivalssitrophy",
+      "name": "§fretrorivalssitrophy§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "rainy",
+      "name": "§rainy§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "ragetrainchroma",
+      "name": "§fragetrainchroma§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "ragegaming",
+      "name": "§fragegaming§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "pinkdippindots",
+      "name": "§fpinkdippindots§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "phoenixsc",
+      "name": "§fphoenixsc§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "peapun",
+      "name": "§fpeapun§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "nqrmandark",
+      "name": "§fnqrmandark§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "northpole",
+      "name": "§fnorthpole§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "muffinpun",
+      "name": "§fmuffinpun§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "loafi",
+      "name": "§floafi§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "japan",
+      "name": "§fjapan§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "flyingkite",
+      "name": "§fflyingkite§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "flowerscenery",
+      "name": "§fflowerscenery§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "fazon",
+      "name": "§ffazon§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "deivid",
+      "name": "§fdeivid§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "carrotpun",
+      "name": "§fcarrotpun§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "breadpun",
+      "name": "§fbreadpun§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "beenectar",
+      "name": "§fbeenectar§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "bedless200k",
+      "name": "§fbedless200k§r",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "aquarium",
+      "name": "§faquarium§r",
+      "memory_tier": 1
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Xatalyst",
+      "Riyoway"
+    ]
+  }
+}

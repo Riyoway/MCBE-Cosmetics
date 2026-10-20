@@ -1,0 +1,30 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.cape": {
+      "rebuild_animation_matrices": true,
+      "geometry": "geometry.custom",
+      "materials": [
+        {
+          "*": "material.cape"
+        }
+      ],
+      "arrays": {
+        "textures": {
+          "array.frames": [
+            "texture.frameb1",
+            "texture.frameb2",
+            "texture.frameb3",
+            "texture.frameb4",
+            "texture.frameb5",
+            "texture.frameb6",
+            "texture.frameb7"
+          ]
+        }
+      },
+      "textures": [
+        "array.frames[math.mod(math.floor(query.life_time * 7), 7)]"
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.cape": {
+      "rebuild_animation_matrices": true,
+      "geometry": "geometry.custom",
+      "materials": [
+        {
+          "*": "material.cape"
+        }
+      ],
+      "arrays": {
+        "textures": {
+          "array.frames": [
+            "texture.frameb1",
+            "texture.frameb2",
+            "texture.frameb3",
+            "texture.frameb4",
+            "texture.frameb5",
+            "texture.frameb6",
+            "texture.frameb7",
+            "texture.frameb8",
+            "texture.frameb9",
+            "texture.frameb10",
+            "texture.frameb11",
+            "texture.frameb12",
+            "texture.frameb13",
+            "texture.frameb14",
+            "texture.frameb15",
+            "texture.frameb16",
+            "texture.frameb17",
+            "texture.frameb18",
+            "texture.frameb19",
+            "texture.frameb20",
+            "texture.frameb21"
+          ]
+        }
+      },
+      "textures": [
+        "array.frames[math.mod(math.floor(query.life_time * 7), 21)]"
+      ]
+    }
+  }
+}
