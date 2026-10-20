@@ -1,18 +1,15 @@
-# Build output
-dist/
-build/
+# Web
+web/node_modules/
+web/dist/
+web/.vite/
 
-# Packaged releases
+# Pack build output
+dist/
 *.mcpack
 *.mcaddon
-*.zip
 
-# Temporary files
-.tmp/
-.temp/
+# Local tooling
 .DS_Store
 Thumbs.db
-
-# Editors
-.vscode/
-.idea/
+*.tmp
+*.log

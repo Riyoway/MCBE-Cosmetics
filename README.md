@@ -1,38 +1,51 @@
 # MCBE Cosmetics
 
-Client-side cosmetic resource packs for Minecraft Bedrock Edition.
+Client-side cosmetic resource packs and a browsable catalog for Minecraft Bedrock Edition.
 
-Created and maintained by **Riyoway**.
+Maintained by [Riyoway](https://github.com/Riyoway).
 
-## Cosmetics
+## Project status
 
 | Category | Status |
 | --- | --- |
-| Capes | Available |
+| Capes | In progress |
 | Cape Physics | Planned |
 | Wings | Planned |
+| Web catalog | Scaffolded |
 
 ## Repository layout
 
 ```text
 MCBE-Cosmetics/
-├─ src/
-│  ├─ shared/          # Shared player/entity/render resources
-│  ├─ capes/           # Cape packs and cape assets
-│  ├─ cape-physics/    # Cape physics resources
-│  └─ wings/           # Wing cosmetics
-├─ tools/              # Build and maintenance tools
-├─ docs/               # Documentation
-└─ dist/               # Local build output (not committed)
+├─ resource_packs/        # Finished, unpacked Bedrock resource packs
+│  ├─ capes/
+│  ├─ cape-physics/
+│  └─ wings/
+├─ catalog/               # Metadata consumed by the web browser
+├─ web/                   # React + TypeScript + Vite + Tailwind CSS UI
+├─ scripts/               # Repository maintenance/build scripts
+├─ docs/                  # Project documentation
+└─ .github/workflows/     # CI
 ```
 
-Each cosmetic type is kept independent where possible. Files that need to modify the Minecraft player entity or are reused by multiple cosmetics belong in `src/shared/` so future cosmetics can be combined without maintaining several conflicting copies of `player.entity.json`.
+`resource_packs/` contains Minecraft-ready pack directories. Packaged `.mcpack` files belong in GitHub Releases rather than the repository root.
+
+## Web catalog
+
+The browser lives in [`web/`](./web). It is set up with React, TypeScript, Vite and Tailwind CSS v4.
+
+UI work is expected to use [`resend/design-skills`](https://github.com/resend/design-skills) as the design reference. The repository includes agent instructions for using the skill without copying Resend trademarks or presenting MCBE Cosmetics as a Resend product.
+
+```bash
+cd web
+npm install
+npm run design:install
+npm run dev
+```
 
 ## Capes
 
-The cape collection is split into five resource packs to keep the in-game subpack selector manageable.
-
-Release builds use the following names:
+The current cape collection is split into five packs so the Bedrock subpack selector stays manageable:
 
 ```text
 Cape-Cosmetics-1.mcpack
@@ -42,16 +55,16 @@ Cape-Cosmetics-4.mcpack
 Cape-Cosmetics-5.mcpack
 ```
 
-The current manifests identify the author as `Riyoway`.
-
-## Downloads
-
-Packaged `.mcpack` builds are intended to be distributed through **GitHub Releases** rather than committed directly to the repository.
+The original archive contains third-party cape material. Do not apply a blanket open-source license to those assets. See [`THIRD_PARTY.md`](./THIRD_PARTY.md).
 
 ## Compatibility
 
-The current cape packs are being developed against Minecraft Bedrock `1.26.45.x`.
+Current cape work targets Minecraft Bedrock `1.26.45.x`.
+
+## Downloads
+
+Installable `.mcpack` builds are intended to be published through GitHub Releases.
 
 ## License
 
-No open-source license has been assigned yet. Content in this repository should not be assumed to be freely relicensable until licensing and third-party asset attribution are finalized.
+No repository-wide license currently applies. Third-party cosmetic assets must retain their original attribution and terms.
