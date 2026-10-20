@@ -1,0 +1,18 @@
+# Build output
+dist/
+build/
+
+# Packaged releases
+*.mcpack
+*.mcaddon
+*.zip
+
+# Temporary files
+.tmp/
+.temp/
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
